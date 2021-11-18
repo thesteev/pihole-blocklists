@@ -22,3 +22,10 @@ ttlivecdn.com
 bytetcdn.com
 tiktokcdn.com.atomile.com
 ssl.cdn.tiktok.com.c.footprint.net
+v16-tiktokcdn-com.akamaized.net
+p16-tiktokcdn-com.akamaized.net
+p16.hypstarcdn.com
+sf-tb-sg.ibytedtos.com
+dm.bytedance.com
+share.musemuse.cn
+tiktok.org
