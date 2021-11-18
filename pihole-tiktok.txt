@@ -16,3 +16,9 @@ tiktokcdn.com.c.worldfcdn.com
 tiktokcdn.com.wsdvs.com
 video.bytedance.map.fastly.net
 ibyteimg.com
+tiktokcdn.com.akamaized.net
+tiktokcdn.com.rocket-cdn.com
+ttlivecdn.com
+bytetcdn.com
+tiktokcdn.com.atomile.com
+ssl.cdn.tiktok.com.c.footprint.net
