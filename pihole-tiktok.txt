@@ -29,3 +29,4 @@ sf-tb-sg.ibytedtos.com
 dm.bytedance.com
 share.musemuse.cn
 tiktok.org
+www.tiktok.com
