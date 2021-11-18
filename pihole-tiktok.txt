@@ -3,12 +3,16 @@
 # Last updated: 12 november 2020
 
 
-0.0.0.0 tiktok.com
-0.0.0.0 tiktokcdn.com
-0.0.0.0 tiktokv.com
-0.0.0.0 musical.ly
-0.0.0.0 muscdn.com
-0.0.0.0 musemuse.cn
-0.0.0.0 byteoversea.com
-0.0.0.0 tiktokcdn-us.com
-0.0.0.0 app.musemuse.cn
+tiktok.com
+tiktokcdn.com
+tiktokv.com
+musical.ly
+muscdn.com
+musemuse.cn
+byteoversea.com
+tiktokcdn-us.com
+app.musemuse.cn
+tiktokcdn.com.c.worldfcdn.com
+tiktokcdn.com.wsdvs.com
+video.bytedance.map.fastly.net
+ibyteimg.com
